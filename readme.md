@@ -3,7 +3,7 @@
 > [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/tree/master/proposed/http-middleware) describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
 
-Currently, PSR-15 is a PHP Standards Recommendation **Propsal** of the Framework Interoperability Group (_FIG_).
+Currently, PSR-15 is a PHP Standards Recommendation **Proposal** of the Framework Interoperability Group (_FIG_).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
