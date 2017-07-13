@@ -36,7 +36,7 @@ Currently, PSR-15 is a PHP Standards Recommendation **Proposal** of the Framewor
 - [mindplay/middleman](https://github.com/mindplay-dk/middleman) - Dead simple PSR-15 / PSR-7 middleware dispatcher.
 - [zendframework/zend-stratigility](https://github.com/zendframework/zend-stratigility) - Build and dispatch middleware pipelines.
 - [middleland/dispatcher](https://github.com/oscarotero/dispatcher) - Another PSR-15 dispatcher
-- [moon-php/http-middleware](https://github.com/moon-php/http-middleware) - A very simple PSR-15 dispatcher
+- [moon-php/http-middleware](https://github.com/moon-php/http-middleware) - A simple PSR-15 dispatcher with lazy middleware resolution via container
 
 ### Router
 
