@@ -1,9 +1,9 @@
 # Awesome PSR-15 Middlewares [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://avatars1.githubusercontent.com/u/22275359?v=3&s=200" width="200" align="right" alt="MW">](https://github.com/middlewares/awesome-psr15-middlewares)
 
-> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/tree/master/proposed/http-middleware) describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
+> [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) describes a common standard for HTTP middleware components using HTTP Messages defined by [PSR-7](http://www.php-fig.org/psr/psr-7/).
 
 
-Currently, PSR-15 is a PHP Standards Recommendation **Proposal** of the Framework Interoperability Group (_FIG_).
+Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperability Group (_FIG_).
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
@@ -17,8 +17,8 @@ Currently, PSR-15 is a PHP Standards Recommendation **Proposal** of the Framewor
 ## References
 
 - [PHP Framework Interoperability Group website](http://www.php-fig.org/)
-- [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/tree/master/proposed/http-middleware) - The current Proposal.
-- [http-interop/http-middleware](https://packagist.org/packages/http-interop/http-middleware) - Composer package of common interfaces for PSR-15 HTTP Middlewares.
+- [PSR-15 HTTP Middleware](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-15-request-handlers.md) - The current standard.
+- [psr/http-server-middleware](https://packagist.org/packages/psr/http-server-middleware) - Composer package of common interfaces for PSR-15 HTTP Middlewares.
 
 
 ## Articles
