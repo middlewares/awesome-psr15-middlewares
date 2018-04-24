@@ -29,6 +29,12 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## Packages
 
+### PSR-7 implementations
+
+- [zendframework/zend-diactoros](https://github.com/zendframework/zend-diactoros)
+- [guzlehttp/psr7](https://github.com/guzzle/psr7)
+- [slim/http](https://github.com/slimphp/Slim-Http)
+- [nyholm/psr7](https://github.com/Nyholm/psr7)
 
 ### Dispatcher
 
