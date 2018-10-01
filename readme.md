@@ -50,6 +50,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [middlewares/aura-router](https://github.com/middlewares/aura-router) - Use [Aura.Router](https://github.com/auraphp/Aura.Router/).
 - [middlewares/fast-route](https://github.com/middlewares/fast-route) - Use [FastRoute](https://github.com/nikic/FastRoute).
 - [timtegeler/routerunner](https://github.com/timtegeler/routerunner) - Routerunner is a config-driven router for HTTP requests.
+- [delolmo/symfony-router](https://github.com/delolmo/symfony-router) - Use [symfony/routing](https://github.com/symfony/routing)
 
 
 ### Security
