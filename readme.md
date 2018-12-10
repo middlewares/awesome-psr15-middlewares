@@ -35,7 +35,10 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [guzlehttp/psr7](https://github.com/guzzle/psr7)
 - [slim/http](https://github.com/slimphp/Slim-Http)
 - [nyholm/psr7](https://github.com/Nyholm/psr7)
-- [sunrise](https://github.com/sunrise-php?utf8=%E2%9C%93&tab=repositories&q=PSR-7&type=source&language=php)
+- [sunrise/http-message](https://github.com/sunrise-php/http-message)
+- [sunrise/http-server-request](https://github.com/sunrise-php/http-server-request)
+- [sunrise/stream](https://github.com/sunrise-php/stream)
+- [sunrise/uri](https://github.com/sunrise-php/uri)
 
 ### Dispatcher
 
