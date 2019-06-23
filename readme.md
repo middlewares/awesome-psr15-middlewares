@@ -49,6 +49,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [oscarotero/middleland](https://github.com/oscarotero/middleland) - Another PSR-15 dispatcher
 - [moon-php/http-middleware](https://github.com/moon-php/http-middleware) - A simple PSR-15 dispatcher with lazy middleware resolution via container
 - [northwoods/broker](https://github.com/northwoods/broker) - A conditional PSR-15 dispatcher that supports lazy middleware resolution via container
+- [noglitchyo/middleware-collection-request-handler](https://github.com/noglitchyo/middleware-collection-request-handler) - Lightweight & simple PSR-15 server request handler implementation to handle middleware collection.
 
 ### Router
 
