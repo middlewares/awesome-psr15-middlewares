@@ -86,11 +86,10 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [middlewares/minifier](https://github.com/middlewares/minifier) - Minify Html, CSS and Javascript.
 - [middlewares/negotiation](https://github.com/middlewares/negotiation) - Manage [content negotiations](https://tools.ietf.org/html/rfc7231#section-5.3).
 
-
 ### Miscellaneous
 
 - [middlewares/geolocation](https://github.com/middlewares/geolocation) - Geolocate requests.
-
+- [noglitchyo/dealdoh](https://github.com/noglitchyo/dealdoh) - Handle [DoH](https://tools.ietf.org/html/rfc8484) (DNS-over-HTTPS) messages.
 
 ## License
 
