@@ -39,6 +39,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [sunrise/http-server-request](https://github.com/sunrise-php/http-server-request)
 - [sunrise/stream](https://github.com/sunrise-php/stream)
 - [sunrise/uri](https://github.com/sunrise-php/uri)
+- [http_message (PHP extension)](https://pecl.php.net/package/http_message)
 
 ### Dispatcher
 
@@ -58,7 +59,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [timtegeler/routerunner](https://github.com/timtegeler/routerunner) - Routerunner is a config-driven router for HTTP requests.
 - [delolmo/symfony-router](https://github.com/delolmo/symfony-router) - Use [symfony/routing](https://github.com/symfony/routing)
 - [sunrise/http-router](https://github.com/sunrise-php/http-router) - HTTP Router based on PSR-7 and PSR-15
-
+- [jasny/switch-route](https://github.com/jasny/switch-route) - Generate a PHP script for faster routing
 
 ### Security
 
