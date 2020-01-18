@@ -31,7 +31,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ### PSR-7 implementations
 
-- [zendframework/zend-diactoros](https://github.com/zendframework/zend-diactoros)
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros)
 - [guzlehttp/psr7](https://github.com/guzzle/psr7)
 - [slim/http](https://github.com/slimphp/Slim-Http)
 - [nyholm/psr7](https://github.com/Nyholm/psr7)
@@ -46,7 +46,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [relay/relay](https://github.com/relayphp/Relay.Relay) - A PSR-15 request handler for both PSR-15 *and* callable middleware; use it with any framework or container.
 - [equip/dispatch](https://github.com/equip/dispatch) - An HTTP Interop compatible middleware dispatcher.
 - [mindplay/middleman](https://github.com/mindplay-dk/middleman) - Dead simple PSR-15 / PSR-7 middleware dispatcher.
-- [zendframework/zend-stratigility](https://github.com/zendframework/zend-stratigility) - Build and dispatch middleware pipelines.
+- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) - Build and dispatch middleware pipelines.
 - [oscarotero/middleland](https://github.com/oscarotero/middleland) - Another PSR-15 dispatcher
 - [moon-php/http-middleware](https://github.com/moon-php/http-middleware) - A simple PSR-15 dispatcher with lazy middleware resolution via container
 - [northwoods/broker](https://github.com/northwoods/broker) - A conditional PSR-15 dispatcher that supports lazy middleware resolution via container
