@@ -24,7 +24,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 ## Articles
 
 - [PSR-7 Objects Are Not Immutable](http://andrewcarteruk.github.io/programming/2016/05/22/psr-7-is-not-immutable.html) - Description of a serious flaw with the double-pass style of middlewares.
-- [Dependency Inversion and PSR-7 Bodies](https://blog.shadowhand.me/dependency-inversion-and-psr-7-bodies/) - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/tree/master/proposed/http-factory).
+- [Dependency Inversion and PSR-7 Bodies](https://blog.shadowhand.me/dependency-inversion-and-psr-7-bodies/) - Conclusion that double-pass flaws cannot be resolved without [HTTP Factories](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-17-http-factory.md).
 
 
 ## Packages
