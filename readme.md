@@ -61,6 +61,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [delolmo/symfony-router](https://github.com/delolmo/symfony-router) - Use [symfony/routing](https://github.com/symfony/routing)
 - [sunrise/http-router](https://github.com/sunrise-php/http-router) - HTTP Router based on PSR-7 and PSR-15
 - [jasny/switch-route](https://github.com/jasny/switch-route) - Generate a PHP script for faster routing
+- [makise-co/http-router](https://github.com/makise-co/http-router) - A HTTP Router based on FastRoute with middleware and DI support. Optimized for long-running applications.
 
 ### Security
 
