@@ -40,6 +40,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [sunrise/stream](https://github.com/sunrise-php/stream)
 - [sunrise/uri](https://github.com/sunrise-php/uri)
 - [http_message (PHP extension)](https://pecl.php.net/package/http_message)
+- [httpsoft/http-message](https://github.com/httpsoft/http-message)
 
 ### Dispatcher
 
@@ -52,6 +53,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [northwoods/broker](https://github.com/northwoods/broker) - A conditional PSR-15 dispatcher that supports lazy middleware resolution via container
 - [noglitchyo/middleware-collection-request-handler](https://github.com/noglitchyo/middleware-collection-request-handler) - Lightweight & simple PSR-15 server request handler implementation to handle middleware collection.
 - [makise-co/middleware](https://github.com/makise-co/middleware) - A high performance strict typed PSR-15 dispatcher that supports middleware resolution though PSR container. Optimized for long-running applications (like Swoole, ReactPHP, AmPHP).
+- [httpsoft/http-runner](https://github.com/httpsoft/http-runner) - Running PSR-7 components and building PSR-15 middleware pipelines.
 
 ### Router
 
@@ -62,6 +64,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [sunrise/http-router](https://github.com/sunrise-php/http-router) - HTTP Router based on PSR-7 and PSR-15
 - [jasny/switch-route](https://github.com/jasny/switch-route) - Generate a PHP script for faster routing
 - [makise-co/http-router](https://github.com/makise-co/http-router) - A HTTP Router based on FastRoute with middleware and DI support. Optimized for long-running applications.
+- [httpsoft/http-router](https://github.com/httpsoft/http-router) - Simple and fast HTTP request router providing PSR-7 and PSR-15.
 
 ### Security
 
