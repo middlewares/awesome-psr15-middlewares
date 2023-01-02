@@ -73,6 +73,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [middlewares/honeypot](https://github.com/middlewares/honeypot) - Block spam bots.
 - [middlewares/http-authentication](https://github.com/middlewares/http-authentication) - HTTP [Basic](https://en.wikipedia.org/wiki/Basic_access_authentication) and [Digest](https://en.wikipedia.org/wiki/Digest_access_authentication) access authentication.
 - [middlewares/recaptcha](https://github.com/middlewares/recaptcha) - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) for spam prevention.
+- [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) - Encrypt cookies with a key
 
 
 ### Development
