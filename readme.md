@@ -89,7 +89,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## Links of interest
 
-- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares)
+- [PSR-15 Middlewares by Middlewares Organization](https://github.com/middlewares/psr15-middlewares)
 
 ## License
 
