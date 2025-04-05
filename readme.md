@@ -36,34 +36,22 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [slim/http](https://github.com/slimphp/Slim-Http)
 - [nyholm/psr7](https://github.com/Nyholm/psr7)
 - [sunrise/http-message](https://github.com/sunrise-php/http-message)
-- [sunrise/http-server-request](https://github.com/sunrise-php/http-server-request)
-- [sunrise/stream](https://github.com/sunrise-php/stream)
-- [sunrise/uri](https://github.com/sunrise-php/uri)
-- [http_message (PHP extension)](https://pecl.php.net/package/http_message)
 - [httpsoft/http-message](https://github.com/httpsoft/http-message)
 
 ### Dispatcher
 
 - [relay/relay](https://github.com/relayphp/Relay.Relay) - A PSR-15 request handler for both PSR-15 *and* callable middleware; use it with any framework or container.
-- [equip/dispatch](https://github.com/equip/dispatch) - An HTTP Interop compatible middleware dispatcher.
 - [mindplay/middleman](https://github.com/mindplay-dk/middleman) - Dead simple PSR-15 / PSR-7 middleware dispatcher.
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) - Build and dispatch middleware pipelines.
 - [oscarotero/middleland](https://github.com/oscarotero/middleland) - Another PSR-15 dispatcher
-- [moon-php/http-middleware](https://github.com/moon-php/http-middleware) - A simple PSR-15 dispatcher with lazy middleware resolution via container
-- [northwoods/broker](https://github.com/northwoods/broker) - A conditional PSR-15 dispatcher that supports lazy middleware resolution via container
-- [noglitchyo/middleware-collection-request-handler](https://github.com/noglitchyo/middleware-collection-request-handler) - Lightweight & simple PSR-15 server request handler implementation to handle middleware collection.
-- [makise-co/middleware](https://github.com/makise-co/middleware) - A high performance strict typed PSR-15 dispatcher that supports middleware resolution though PSR container. Optimized for long-running applications (like Swoole, ReactPHP, AmPHP).
 - [httpsoft/http-runner](https://github.com/httpsoft/http-runner) - Running PSR-7 components and building PSR-15 middleware pipelines.
 
 ### Router
 
 - [middlewares/aura-router](https://github.com/middlewares/aura-router) - Use [Aura.Router](https://github.com/auraphp/Aura.Router/).
 - [middlewares/fast-route](https://github.com/middlewares/fast-route) - Use [FastRoute](https://github.com/nikic/FastRoute).
-- [timtegeler/routerunner](https://github.com/timtegeler/routerunner) - Routerunner is a config-driven router for HTTP requests.
-- [delolmo/symfony-router](https://github.com/delolmo/symfony-router) - Use [symfony/routing](https://github.com/symfony/routing)
 - [sunrise/http-router](https://github.com/sunrise-php/http-router) - HTTP Router based on PSR-7 and PSR-15
 - [jasny/switch-route](https://github.com/jasny/switch-route) - Generate a PHP script for faster routing
-- [makise-co/http-router](https://github.com/makise-co/http-router) - A HTTP Router based on FastRoute with middleware and DI support. Optimized for long-running applications.
 - [httpsoft/http-router](https://github.com/httpsoft/http-router) - Simple and fast HTTP request router providing PSR-7 and PSR-15.
 
 ### Security
@@ -102,4 +90,4 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Michael Mayer](http://schnittstabil.de) has waived all copyright and related or neighboring rights to this work.
+Awesome PSR-15 Middlewares © 2016-2025 by [Middlewares Organization](https://github.com/middlewares) is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/publicdomain/zero/1.0/).
