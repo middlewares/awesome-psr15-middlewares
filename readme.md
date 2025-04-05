@@ -86,6 +86,11 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [middlewares/geolocation](https://github.com/middlewares/geolocation) - Geolocate requests.
 - [noglitchyo/dealdoh](https://github.com/noglitchyo/dealdoh) - Handle [DoH](https://tools.ietf.org/html/rfc8484) (DNS-over-HTTPS) messages.
 
+
+## Links of interest
+
+- [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares)
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
