@@ -67,7 +67,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 * [AuraSession](https://github.com/middlewares/aura-session)
 * [PhpSession](https://github.com/middlewares/php-session)
-* [Storageless Sessions](https://github.com/psr7-sessions/storageless)
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless)
 
 ### Development
 
