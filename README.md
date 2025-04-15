@@ -65,19 +65,14 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ### Session
 
-* [AuraSession](https://github.com/middlewares/aura-session)
-* [PhpSession](https://github.com/middlewares/php-session)
-* [Storageless JWT Session](https://github.com/psr7-sessions/storageless)
+* [AuraSession](https://github.com/middlewares/aura-session) - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session).
+* [PhpSession](https://github.com/middlewares/php-session) - Manage sessions using PHP's native session API.
+* [Storageless JWT Session](https://github.com/psr7-sessions/storageless) - Manage sessions without I/O usage. 
 
 ### Development
 
 - [middlewares/debugbar](https://github.com/middlewares/debugbar) - Inject [PHP Debug Bar](http://phpdebugbar.com/).
 - [middlewares/whoops](https://github.com/middlewares/whoops) - Use [Whoops](https://github.com/filp/whoops) as error handler.
-
-
-### Manage States
-
-- [middlewares/aura-session](https://github.com/middlewares/aura-session) - Manage sessions using [Aura.Session](https://github.com/auraphp/Aura.Session).
 
 
 ### Content
