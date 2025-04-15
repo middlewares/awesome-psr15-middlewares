@@ -63,6 +63,11 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 - [middlewares/recaptcha](https://github.com/middlewares/recaptcha) - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) for spam prevention.
 - [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) - Encrypt cookies with a key
 
+### Session
+
+* [AuraSession](https://github.com/middlewares/aura-session)
+* [PhpSession](https://github.com/middlewares/php-session)
+* [Storageless Sessions](https://github.com/psr7-sessions/storageless)
 
 ### Development
 
