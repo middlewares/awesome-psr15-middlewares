@@ -69,11 +69,17 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 * [PhpSession](https://github.com/middlewares/php-session) - Manage sessions using PHP's native session API.
 * [Storageless JWT Session](https://github.com/psr7-sessions/storageless) - Manage sessions without I/O usage. 
 
-### Development
+### Errors management
 
-- [middlewares/debugbar](https://github.com/middlewares/debugbar) - Inject [PHP Debug Bar](http://phpdebugbar.com/).
 - [middlewares/whoops](https://github.com/middlewares/whoops) - Use [Whoops](https://github.com/filp/whoops) as error handler.
+- [middlewares/error-handler](https://github.com/middlewares/error-handler) - Handle errors with support for multiple formatters (HTML, JSON, XML, etc.).
+- [middlewares/json-exception-handler](https://github.com/middlewares/json-exception-handler) - Handle errors ideally for your API using JSON.
+- [middlewares/error-response](https://github.com/middlewares/error-response) - Easily create HTTP errors.
 
+### Debugging
+
+- [middlewares/debugbar](https://github.com/middlewares/debugbar) - Use [PHP Debug Bar](http://phpdebugbar.com/) for your development environment.
+- [kodus/chrome-logger](https://github.com/kodus/chrome-logger) - A well-designed alternative to the original ChromeLogger for PHP.
 
 ### Content
 
