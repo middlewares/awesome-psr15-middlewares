@@ -29,6 +29,8 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## Packages
 
+Every package is currently maintained. Any package without an update for 2 years is deleted.
+
 ### PSR-7 implementations
 
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros)
