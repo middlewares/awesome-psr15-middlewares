@@ -29,7 +29,7 @@ Currently, PSR-15 is a PHP Standards Recommendation of the Framework Interoperab
 
 ## Packages
 
-Every package is currently maintained. Any package without an update for 2 years is deleted.
+Every package is currently maintained. Any package without an update for 2-3 years is deleted.
 
 ### PSR-7 implementations
 
@@ -93,7 +93,6 @@ Every package is currently maintained. Any package without an update for 2 years
 ### Miscellaneous
 
 - [middlewares/geolocation](https://github.com/middlewares/geolocation) - Geolocate requests.
-- [noglitchyo/dealdoh](https://github.com/noglitchyo/dealdoh) - Handle [DoH](https://tools.ietf.org/html/rfc8484) (DNS-over-HTTPS) messages.
 
 
 ## Links of interest
