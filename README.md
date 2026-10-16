@@ -64,6 +64,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 - [middlewares/http-authentication](https://github.com/middlewares/http-authentication) - HTTP [Basic](https://en.wikipedia.org/wiki/Basic_access_authentication) and [Digest](https://en.wikipedia.org/wiki/Digest_access_authentication) access authentication.
 - [middlewares/recaptcha](https://github.com/middlewares/recaptcha) - Use [Google's reCAPTCHA](https://github.com/google/recaptcha) for spam prevention.
 - [ellipsephp/cookie-encryption](https://github.com/ellipsephp/cookie-encryption) - Encrypt cookies with a key
+- [Guard-Core/psr15-guard](https://github.com/Guard-Core/psr15-guard) - PSR-15 middleware for IP filtering, rate limiting with automatic bans, attack pattern detection and security headers.
 
 ### Session
 
