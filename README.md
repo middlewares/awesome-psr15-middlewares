@@ -55,6 +55,7 @@ Every package is currently maintained. Any package without an update for 2-3 yea
 - [sunrise/http-router](https://github.com/sunrise-php/http-router) - HTTP Router based on PSR-7 and PSR-15
 - [jasny/switch-route](https://github.com/jasny/switch-route) - Generate a PHP script for faster routing
 - [httpsoft/http-router](https://github.com/httpsoft/http-router) - Simple and fast HTTP request router providing PSR-7 and PSR-15.
+- [delolmo/symfony-router](https://github.com/delolmo/symfony-router) - Use [symfony/routing](https://github.com/symfony/routing).
 
 ### Security
 
